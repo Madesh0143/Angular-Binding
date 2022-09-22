@@ -1,0 +1,37 @@
+.para{
+    text-align: center;
+    
+}
+
+.container{
+    text-align: center;
+    position: relative;
+    margin-top: 60px;
+}
+.container>.button
+{
+    size: 100px;
+    margin-right: 8px;
+    overflow: visible;
+    background: position 2px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: larger;
+    text-decoration: none;
+    position: relative;
+    cursor: pointer;
+    transition-duration: .5s;
+
+}
+.container>.button:hover{
+    background-color: red;
+    color: white;
+}
+.ang{
+    margin-top: 80px;
+    font-size: xx-large;
+    
+    position: relative;
+    text-align: center;
+}
+
